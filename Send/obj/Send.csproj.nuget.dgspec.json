@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tdp02986\\source\\Study\\DockerStudy\\HelloWorldRabbitMQ\\Send\\Send.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tdp02986\\source\\Study\\DockerStudy\\HelloWorldRabbitMQ\\Send\\Send.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tdp02986\\source\\Study\\DockerStudy\\HelloWorldRabbitMQ\\Send\\Send.csproj",
+        "projectName": "Send",
+        "projectPath": "C:\\Users\\tdp02986\\source\\Study\\DockerStudy\\HelloWorldRabbitMQ\\Send\\Send.csproj",
+        "packagesPath": "C:\\Users\\udp02986\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tdp02986\\source\\Study\\DockerStudy\\HelloWorldRabbitMQ\\Send\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\udp02986\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

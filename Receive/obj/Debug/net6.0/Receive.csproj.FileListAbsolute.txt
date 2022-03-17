@@ -1,0 +1,17 @@
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\obj\Debug\net6.0\Receive.csproj.AssemblyReference.cache
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\obj\Debug\net6.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\obj\Debug\net6.0\Receive.AssemblyInfoInputs.cache
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\obj\Debug\net6.0\Receive.AssemblyInfo.cs
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\obj\Debug\net6.0\Receive.csproj.CoreCompileInputs.cache
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\bin\Debug\net6.0\Receive.exe
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\bin\Debug\net6.0\Receive.deps.json
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\bin\Debug\net6.0\Receive.runtimeconfig.json
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\bin\Debug\net6.0\Receive.dll
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\bin\Debug\net6.0\Receive.pdb
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\obj\Debug\net6.0\Receive.csproj.CopyComplete
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\obj\Debug\net6.0\Receive.dll
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\obj\Debug\net6.0\refint\Receive.dll
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\obj\Debug\net6.0\Receive.pdb
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\obj\Debug\net6.0\Receive.genruntimeconfig.cache
+C:\Users\tdp02986\source\Study\DockerStudy\HelloWorldRabbitMQ\Receive\obj\Debug\net6.0\ref\Receive.dll
